@@ -15,8 +15,8 @@ Dependencies
 
 
 # External Tools:
-# Tesseract OCR (install via system package manager or installer).
-# Poppler (required for pdf2image on Windows/Linux/macOS).
+## Tesseract OCR (install via system package manager or installer).
+## Poppler (required for pdf2image on Windows/Linux/macOS).
 
 
 
@@ -24,8 +24,8 @@ Dependencies
 pip install PyMuPDF pytesseract pdf2image python-docx openpyxl Pillow tqdm
 
 
-# Tesseract: Install via brew install tesseract (macOS), sudo apt-get install tesseract-ocr (Linux), or download from GitHub (Windows).
-# Poppler: Install via brew install poppler (macOS), sudo apt-get install poppler-utils (Linux), or download from GitHub (Windows).
+## Tesseract: Install via brew install tesseract (macOS), sudo apt-get install tesseract-ocr (Linux), or download from GitHub (Windows).
+## Poppler: Install via brew install poppler (macOS), sudo apt-get install poppler-utils (Linux), or download from GitHub (Windows).
 
 ## Approach
 ## General Strategy
