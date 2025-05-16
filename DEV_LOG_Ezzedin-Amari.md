@@ -5,13 +5,13 @@ Dependencies
 
 ## Python 3.8+
 ## Libraries:
-# PyMuPDF (fitz): For efficient PDF text extraction and image conversion.
-# pytesseract: For OCR on scanned PDFs or PDFs without extractable text.
-# pdf2image: To convert PDF pages to images for OCR.
-# python-docx: For .docx file processing.
-# openpyxl: For .xls/.xlsx file processing.
-# Pillow: For image handling with OCR.
-# tqdm: For progress tracking during OCR.
+## PyMuPDF (fitz): For efficient PDF text extraction and image conversion.
+## pytesseract: For OCR on scanned PDFs or PDFs without extractable text.
+## pdf2image: To convert PDF pages to images for OCR.
+## python-docx: For .docx file processing.
+## openpyxl: For .xls/.xlsx file processing.
+## Pillow: For image handling with OCR.
+## tqdm: For progress tracking during OCR.
 
 
 # External Tools:
